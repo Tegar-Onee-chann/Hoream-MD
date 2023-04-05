@@ -1,5 +1,5 @@
 {
-  "name": "Hoream-MD",
+  "name": "Mulia-MD",
   "version": "2.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "TioXd",
+  "author": "ZurrMods",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
@@ -77,10 +77,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BOTCAHX/Hoream-MD.git"
+    "url": "git+https://github.com/Tegar-Onee-chann /Hoream-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/BOTCAHX/Hoream-MD/issues"
+    "url": "https://github.com/Tegar-Onee-chann/Hoream-MD/issues"
   },
-  "homepage": "https://github.com/BOTCAHX/Hoream-MD#readme"
+  "homepage": "https://github.com/Tegar-Onee-chann/Hoream-MD#readme"
 }
